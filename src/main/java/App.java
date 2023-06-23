@@ -6,8 +6,8 @@ public class App {
     final List<String> liste = List.of("cat", "btt", "hat", "tree");
     //final List<String> liste = List.of("hello", "world", "challenge");
 
-    final String chars = "batach";
-    //final String chars = "welldonehopper";
+    //final String chars = "batach";
+    final String chars = "welldonehopper";
 
     System.out.println("\n" + chars);
     System.out.println("\n" + getOutput(liste, chars));
